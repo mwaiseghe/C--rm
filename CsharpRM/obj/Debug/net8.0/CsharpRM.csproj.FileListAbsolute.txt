@@ -1,0 +1,14 @@
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\bin\Debug\net8.0\CsharpRM.exe
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\bin\Debug\net8.0\CsharpRM.deps.json
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\bin\Debug\net8.0\CsharpRM.runtimeconfig.json
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\bin\Debug\net8.0\CsharpRM.dll
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\bin\Debug\net8.0\CsharpRM.pdb
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\CsharpRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\CsharpRM.AssemblyInfoInputs.cache
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\CsharpRM.AssemblyInfo.cs
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\CsharpRM.csproj.CoreCompileInputs.cache
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\CsharpRM.dll
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\refint\CsharpRM.dll
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\CsharpRM.pdb
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\CsharpRM.genruntimeconfig.cache
+C:\Users\GiftMwaiseghe\Desktop\root\dev\learn-rm\csharp.rm\CsharpRM\CsharpRM\obj\Debug\net8.0\ref\CsharpRM.dll
